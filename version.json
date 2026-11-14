@@ -1,6 +1,6 @@
 {
-  "version": 48,
-  "url": "https://raw.githubusercontent.com/psyq30-sudo/ostatnia-minuta-update/main/patch_48.pck",
-  "sha256": "baa2e892246b40ae355167e3f8ed020e2d9a553192da349bc3f542ad9196caf3",
-  "notes": "Zadania z limitem czasu"
+  "version": 52,
+  "url": "https://raw.githubusercontent.com/psyq30-sudo/ostatnia-minuta-update/main/patch_52.pck",
+  "sha256": "53d28cff5e87f667bb3d2f634057ee997658d077a534ec38d11ed8225f5651fd",
+  "notes": "Bronie energetyczne, nowe modele broni, wiecej potworow"
 }
