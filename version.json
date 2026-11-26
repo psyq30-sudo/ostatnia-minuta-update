@@ -1,8 +1,13 @@
 {
-    "version":  87,
+    "version":  88,
     "base":  87,
     "chain":  [
-
+                  {
+                      "version":  88,
+                      "url":  "https://github.com/psyq30-sudo/ostatnia-minuta-update/releases/download/v88/patch_88.pck",
+                      "sha256":  "b9030c197a6f02a1ec1f59181c755caa9519fb08348113df8ba3f5e2477fcd46",
+                      "size":  604024
+                  }
               ],
     "full_url":  "https://github.com/psyq30-sudo/ostatnia-minuta-update/releases/download/v87/OstatniaMinuta_v87_tylko_pck.zip",
     "notes":  ""
