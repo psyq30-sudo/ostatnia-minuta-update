@@ -1,5 +1,5 @@
 {
-    "version":  91,
+    "version":  92,
     "base":  87,
     "chain":  [
                   {
@@ -25,6 +25,12 @@
                       "url":  "https://github.com/psyq30-sudo/ostatnia-minuta-update/releases/download/v91/patch_91.pck",
                       "sha256":  "58e511e5dc62be236f4aa05d727e1c1693097a0eed962aed9234f7589a54213a",
                       "size":  343124
+                  },
+                  {
+                      "version":  92,
+                      "url":  "https://github.com/psyq30-sudo/ostatnia-minuta-update/releases/download/v92/patch_92.pck",
+                      "sha256":  "68332cc3af3afb918fbcf558f62146b747e9f22e120cdad9e33de769e3db2e2a",
+                      "size":  13174044
                   }
               ],
     "full_url":  "https://github.com/psyq30-sudo/ostatnia-minuta-update/releases/download/v87/OstatniaMinuta_v87_tylko_pck.zip",
